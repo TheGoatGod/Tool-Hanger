@@ -5,7 +5,7 @@
     "category": "veh_part",
     "name": { "str": "tool hanger" },
     "description": "A metal tool holder of various sizes.",
-    "weight": "1200 g",
+    "weight": "800 g",
     "volume": "2100 ml",
     "price": "500 USD",
     "price_postapoc": "50 USD",
