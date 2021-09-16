@@ -30,5 +30,290 @@
         ]
       }
     ]
+  },
+  {
+    "id": "knife_holders",
+    "type": "GENERIC",
+    "category": "veh_part",
+    "name": { "str": "Knife holder" },
+    "description": "A metal tool holder of various sizes.",
+    "weight": "800 g",
+    "volume": "2100 ml",
+    "price": "500 USD",
+    "price_postapoc": "50 USD",
+    "to_hit": 1,
+    "bashing": 4,
+    "material": [ "steel" ],
+    "symbol": "}",
+    "color": "light_brown",
+    "pocket_data":
+    [
+      {
+        "//": "TODO knifes",
+        "pocket_type": "CONTAINER",
+        "rigid": false,
+        "open_container": true,
+        "max_contains_weight": "10 kg",
+        "max_contains_volume": "25 L",
+        "moves": 100,
+        "item_restriction": [ "copper_knife",  "diveknife", "honey_scraper",  "pockknife",  "primitive_knife", "boxcutter",  "stone_chopper" ]
+      }
+    ]
+  },
+  {
+    "id": "TEMPLATE",
+    "type": "GENERIC",
+    "category": "veh_part",
+    "name": { "str": "template" },
+    "description": "A metal tool holder of various sizes.",
+    "weight": "800 g",
+    "volume": "2100 ml",
+    "price": "500 USD",
+    "price_postapoc": "50 USD",
+    "to_hit": 1,
+    "bashing": 4,
+    "material": [ "steel" ],
+    "symbol": "}",
+    "color": "light_brown",
+    "pocket_data":
+    [
+      {
+        "//": "TODO small tools",
+        "pocket_type": "CONTAINER",
+        "rigid": false,
+        "open_container": true,
+        "max_contains_weight": "10 kg",
+        "max_contains_volume": "25 L",
+        "moves": 100,
+        "item_restriction":
+        [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TEMPLATE",
+    "type": "GENERIC",
+    "category": "veh_part",
+    "name": { "str": "template" },
+    "description": "A metal tool holder of various sizes.",
+    "weight": "800 g",
+    "volume": "2100 ml",
+    "price": "500 USD",
+    "price_postapoc": "50 USD",
+    "to_hit": 1,
+    "bashing": 4,
+    "material": [ "steel" ],
+    "symbol": "}",
+    "color": "light_brown",
+    "pocket_data":
+    [
+      {
+        "//": "TODO general tools",
+        "pocket_type": "CONTAINER",
+        "rigid": false,
+        "open_container": true,
+        "max_contains_weight": "10 kg",
+        "max_contains_volume": "25 L",
+        "moves": 100,
+        "item_restriction":
+        [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TEMPLATE",
+    "type": "GENERIC",
+    "category": "veh_part",
+    "name": { "str": "template" },
+    "description": "A metal tool holder of various sizes.",
+    "weight": "800 g",
+    "volume": "2100 ml",
+    "price": "500 USD",
+    "price_postapoc": "50 USD",
+    "to_hit": 1,
+    "bashing": 4,
+    "material": [ "steel" ],
+    "symbol": "}",
+    "color": "light_brown",
+    "pocket_data":
+    [
+      {
+        "//": "TODO big tools",
+        "pocket_type": "CONTAINER",
+        "rigid": false,
+        "open_container": true,
+        "max_contains_weight": "10 kg",
+        "max_contains_volume": "25 L",
+        "moves": 100,
+        "item_restriction":
+        [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TEMPLATE",
+    "type": "GENERIC",
+    "category": "veh_part",
+    "name": { "str": "template" },
+    "description": "A metal tool holder of various sizes.",
+    "weight": "800 g",
+    "volume": "2100 ml",
+    "price": "500 USD",
+    "price_postapoc": "50 USD",
+    "to_hit": 1,
+    "bashing": 4,
+    "material": [ "steel" ],
+    "symbol": "}",
+    "color": "light_brown",
+    "pocket_data":
+    [
+      {
+        "//": "TODO kit holder",
+        "pocket_type": "CONTAINER",
+        "rigid": false,
+        "open_container": true,
+        "max_contains_weight": "10 kg",
+        "max_contains_volume": "25 L",
+        "moves": 100,
+        "item_restriction":
+        [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TEMPLATE",
+    "type": "GENERIC",
+    "category": "veh_part",
+    "name": { "str": "template" },
+    "description": "A metal tool holder of various sizes.",
+    "weight": "800 g",
+    "volume": "2100 ml",
+    "price": "500 USD",
+    "price_postapoc": "50 USD",
+    "to_hit": 1,
+    "bashing": 4,
+    "material": [ "steel" ],
+    "symbol": "}",
+    "color": "light_brown",
+    "pocket_data":
+    [
+      {
+        "//": "TODO metal working",
+        "pocket_type": "CONTAINER",
+        "rigid": false,
+        "open_container": true,
+        "max_contains_weight": "10 kg",
+        "max_contains_volume": "25 L",
+        "moves": 100,
+        "item_restriction":
+        [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TEMPLATE",
+    "type": "GENERIC",
+    "category": "veh_part",
+    "name": { "str": "template" },
+    "description": "A metal tool holder of various sizes.",
+    "weight": "800 g",
+    "volume": "2100 ml",
+    "price": "500 USD",
+    "price_postapoc": "50 USD",
+    "to_hit": 1,
+    "bashing": 4,
+    "material": [ "steel" ],
+    "symbol": "}",
+    "color": "light_brown",
+    "pocket_data":
+    [
+      {
+        "//": "TODO wood working",
+        "pocket_type": "CONTAINER",
+        "rigid": false,
+        "open_container": true,
+        "max_contains_weight": "10 kg",
+        "max_contains_volume": "25 L",
+        "moves": 100,
+        "item_restriction":
+        [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TEMPLATE",
+    "type": "GENERIC",
+    "category": "veh_part",
+    "name": { "str": "template" },
+    "description": "A metal tool holder of various sizes.",
+    "weight": "800 g",
+    "volume": "2100 ml",
+    "price": "500 USD",
+    "price_postapoc": "50 USD",
+    "to_hit": 1,
+    "bashing": 4,
+    "material": [ "steel" ],
+    "symbol": "}",
+    "color": "light_brown",
+    "pocket_data":
+    [
+      {
+        "//": "TODO stone working",
+        "pocket_type": "CONTAINER",
+        "rigid": false,
+        "open_container": true,
+        "max_contains_weight": "10 kg",
+        "max_contains_volume": "25 L",
+        "moves": 100,
+        "item_restriction":
+        [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TEMPLATE",
+    "type": "GENERIC",
+    "category": "veh_part",
+    "name": { "str": "template" },
+    "description": "A metal tool holder of various sizes.",
+    "weight": "800 g",
+    "volume": "2100 ml",
+    "price": "500 USD",
+    "price_postapoc": "50 USD",
+    "to_hit": 1,
+    "bashing": 4,
+    "material": [ "steel" ],
+    "symbol": "}",
+    "color": "light_brown",
+    "pocket_data":
+    [
+      {
+        "//": "TODO traps",
+        "pocket_type": "CONTAINER",
+        "rigid": false,
+        "open_container": true,
+        "max_contains_weight": "10 kg",
+        "max_contains_volume": "25 L",
+        "moves": 100,
+        "item_restriction":
+        [
+
+        ]
+      }
+    ]
   }
 ]
